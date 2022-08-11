@@ -149,6 +149,7 @@ function linkedList() {
     }
 }
 
+//test methods
 const list = linkedList()
 list.append(50)
 list.prepend(30)
